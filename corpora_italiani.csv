@@ -1,4 +1,4 @@
-﻿abbrev.,nome,tipo di testo,tempo,misura,disponibilità,opzione di download,formato,opzione di ricerca,subcorpora,istitutione/progetto ,fonte
+﻿abbrev.,nome,tipo di testo,tempo,misura,disponibilità,opzione di download,formato,opzione di ricerca,subcorpora,istituzione/progetto/persona,fonte
 OVI,Corpus OVI dell'Italiano antico,letterario,ca. 1200-1450,3218 testi ,KWIC (±40),lista di risultati KWIC,rtf,forma/lemma/POS,,Opera del Vocabolario Italiano,http://gattoweb.ovi.cnr.it/(S(wnnwiui2an0ldc0r3nfyzisx))/CatForm01.aspx
 TLIO,Corpus del Tesoro della Lingua Italiana delle Origini,letterario,ca. 1200-1450,2948 testi,KWIC (±40),lista di risultati KWIC,rtf,forma/lemma/POS,parte dell'OVI,Opera del Vocabolario Italiano,http://tlioweb.ovi.cnr.it/(S(aa4h0kjy45z4c4fca5elcbvi))/CatForm01.aspx
 BiBit,Catalogo della Biblioteca italiana,letterario,1200-2000,1600 testi,intero,testi scaricabile singolarmente,xml,forma,,Centro Interuniversitario Biblioteca italiana Telematica,http://www.bibliotecaitaliana.it/catalogo
@@ -26,3 +26,4 @@ itTenTen2010,Corpus of the Italian Web 2010,Web,2010,2.6 miliardi token,KWIC (r
 CorDIC,Corpora Didattici Italiani di Confronto,vari,2013,500 000 token,KWIC (±50),lista di risultati KWIC,txt/xml,forma/lemma/POS,parlato/scritto,Laboratorio Linguistico Italiano dell'Università di Firenze,http://corporadidattici.lablita.it/index.html
 JSI,JSI Timestamped Italian corpus ,Web,2014-2021,8.7 miliardi token,KWIC (regolabile),lista di risultati KWIC,txt/csv/xlsx/xml,forma/lemma/POS,,Jozef Stefan Institute (Slovenia) ,https://www.sketchengine.eu/timestamped-italian-corpus/
 itTenTen2016,Corpus of the Italian Web 2016,Web,2016,4.9 miliardi token,KWIC (regolabile),lista di risultati KWIC,txt/csv/xlsx/xml,forma/lemma/POS,,TenTen (Sketch Engine) ,https://www.sketchengine.eu/ittenten-italian-corpus/
+Wikibooks,Italian Wikibooks Dataset,Wikipedia,2021,14718 testi,intero,intero corpus,sqlite,,,Dhruvil Dave (Kaggle),https://www.kaggle.com/dhruvildave/wikibooks-dataset
