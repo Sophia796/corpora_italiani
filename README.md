@@ -1,2 +1,3 @@
 # corpora_italiani
- corpora della lingua italiana dal 1200 ad oggi
+
+elenco dei corpora della lingua italiana dal 1200 ad oggi per l'analisi linguistica diacronica
