@@ -29,6 +29,3 @@ PAISÀ,Piattaforma per l'Apprendimento dell'Italiano Su Corpora Annotati,Web,201
 RIDIRE,RIsorsa Dinamica Italiana di Rete,Web,2009-2013,1.5 miliardi token,KWIC (±10),lista di risultati KWIC,xls,forma/lemma/POS,categorie (musica/sport/letteratura…),Società Internazionale di Linguistica e Filologia Italiana,http://www.ridire.it/it.drwolf.ridire/home.seam
 TLIO,Corpus del Tesoro della Lingua Italiana delle Origini,letterario,1200-1450,2948 testi,KWIC (±40),lista di risultati KWIC,rtf,forma/lemma/POS,parte dell'OVI,Opera del Vocabolario Italiano,http://tlioweb.ovi.cnr.it/(S(aa4h0kjy45z4c4fca5elcbvi))/CatForm01.aspx
 Wikibooks,Italian Wikibooks Dataset,Wikipedia,2021,14718 testi,intero,intero corpus,sqlite,,,Dhruvil Dave/Kaggle,https://www.kaggle.com/dhruvildave/wikibooks-dataset
-,,,,,,,,,,,
-,,,,,,,,,,,
-,,,,,, ,,,,,
